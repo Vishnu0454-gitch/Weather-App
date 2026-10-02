@@ -1,7 +1,7 @@
 # Weather App
 A simple and responsive Weather App built using HTML,CSS and JavaScript.
 ![Weather App Screenshot]
-(weather-app.png)
+(Weather%20-app.png)
 
 ## Features
 - Search weather by city name
